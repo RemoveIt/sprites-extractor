@@ -10,6 +10,7 @@
     "type": "git",
     "url": "https://github.com/TibiaJS/sprites-extractor.git"
   },
+  "bin": "./index.js",
   "keywords": [
     "tibia",
     "sprites",
