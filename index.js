@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var fs, BufferReader, PNGImage, MultiBar, mbars, bars, sprFile, baseColor, base, async, exportImg, outDir;
 
 fs      = require('fs');
